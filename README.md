@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://stivstoy.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Steve Hutson
 
-### ©️2019 Run Buddy, Inc 
+### ©️2021 Run Buddy, Inc 
